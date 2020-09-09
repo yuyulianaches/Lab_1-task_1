@@ -5,7 +5,7 @@ Student name: `Elizaveta`
 ***
 Group number: **13**
 ***
-Specialty: ***DEaWP***
+Specialty: ***[ДЭиВИ]***
 
 #include <iostream>
 void main()
