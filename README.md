@@ -1,6 +1,12 @@
 # Lab_1-task_1
 Finding factorial in C++
 
+Student name: `Elizaveta`
+***
+Group number: **13**
+***
+Specialty: ***DEaWP***
+
 #include <iostream>
 void main()
 {
