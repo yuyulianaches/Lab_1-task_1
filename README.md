@@ -6,7 +6,7 @@ Student name: `Elizaveta`
 Group number: **13**
 ***
 Specialty: ***[ДЭиВИ]***
-```html
+```
 #include <iostream>
 void main()
 {
