@@ -6,7 +6,9 @@ Student name: `Elizaveta`
 Group number: **13**
 ***
 Specialty: ***[ДЭиВИ]***
-
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
 #include <iostream>
 void main()
 {
